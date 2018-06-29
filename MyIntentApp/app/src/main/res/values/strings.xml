@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyIntentApp</string>
+    <string name="pindah_activity">Pindah Activity</string>
+</resources>
